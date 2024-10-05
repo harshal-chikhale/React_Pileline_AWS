@@ -1,7 +1,7 @@
 A simple ReactJS app that starts webserver.
 
 ## Installation
-- git clone https://github.com/Harshalchikhale/React-codepipeline
+- git clone https://github.com/harshalchikhale/React-codepipeline
 - npm install
 - npm start
 
